@@ -28,6 +28,25 @@ public class MainActivity extends AppCompatActivity {
         list.add("sahir");
         list.add("khan");
         list.add("zeeshan");
+        list.add("sahir");
+        list.add("khan");
+        list.add("zeeshan");
+        list.add("sahir");
+        list.add("khan");
+        list.add("zeeshan");
+        list.add("sahir");
+        list.add("khan");
+        list.add("zeeshan");
+        list.add("sahir");
+        list.add("khan");
+        list.add("zeeshan");
+        list.add("sahir");
+        list.add("khan");
+        list.add("zeeshan");
+        list.add("zeeshan");
+        list.add("sahir");
+        list.add("khan");
+        list.add("zeeshan");
 
 
         MyAdapter myAdapter = new MyAdapter(MainActivity.this,list);
